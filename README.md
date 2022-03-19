@@ -1,21 +1,9 @@
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-</style>
-
 # awesome-chinese-ner
 中文命名实体识别
 
 # 模型
 |  论文名   | 会议/期刊 | 论文地址  | github地址 | 
-|  :----------------:  | :----:  | :----: | :----: |
+|  :-----------------:  | :----:  | :----: | :----: |
 | Unified Named Entity Recognition as Word-Word Relation Classification  | AAAI 2022 | https://arxiv.org/abs/2112.10070 | https://github.com/ljynlp/W2NER.git |
 | MarkBERT: Marking Word Boundaries Improves Chinese BERT | 2022 | https://arxiv.org/pdf/2203.06378 | - |
 | MFE-NER: Multi-feature Fusion Embedding for Chinese Named Entity Recognition | 2021 | https://arxiv.org/pdf/2109.07877 | - |
