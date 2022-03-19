@@ -25,7 +25,7 @@
 | CLUENER2020: Fine-grained Named Entity Recognition Dataset and Benchmark for Chinese | 2020 | https://arxiv.org/pdf/2001.04351v4.pdf | https://github.com/CLUEbenchmark/CLUENER2020 |
 | ERNIE: Enhanced Representation through Knowledge Integration | 2019 | https://arxiv.org/pdf/1904.09223v1.pdf | https://github.com/PaddlePaddle/ERNIE |
 | TENER: Adapting Transformer Encoder for Named Entity Recognition | 2019 | https://arxiv.org/pdf/1911.04474v3.pdf | https://github.com/fastnlp/TENER |
-| Chinese NER Using Lattice LSTM | acl2018 | https://arxiv.org/pdf/1805.02023v4.pdf | https://github.com/jiesutd/LatticeLSTM |
+| Chinese NER Using Lattice LSTM | ACL 2018 | https://arxiv.org/pdf/1805.02023v4.pdf | https://github.com/jiesutd/LatticeLSTM |
 | ERNIE 2.0: A Continual Pre-training Framework for Language Understanding | 2019 | https://arxiv.org/pdf/1907.12412v2.pdf | https://github.com/PaddlePaddle/ERNIE |
 | Glyce: Glyph-vectors for Chinese Character Representations | NeurIPS 2019 | https://arxiv.org/pdf/1901.10125v5.pdf | https://github.com/ShannonAI/glyce |
 | CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition  | NAACL 2019 |  https://arxiv.org/pdf/1904.02141v3.pdf|  https://github.com/microsoft/vert-papers/tree/master/papers/CAN-NER|
@@ -50,5 +50,9 @@
 待完成
 
 # Ner工具
+
+待完成
+
+# 比赛
 
 待完成
