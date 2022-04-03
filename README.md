@@ -9,8 +9,8 @@
 | MFE-NER: Multi-feature Fusion Embedding for Chinese Named Entity Recognition | 2021 | https://arxiv.org/pdf/2109.07877 | - |
 |  AdaK-NER: An Adaptive Top-K Approach for Named Entity Recognition with Incomplete Annotations| 2021 | https://arxiv.org/pdf/2109.05233 | - |
 |ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information | ACL 2021| https://arxiv.org/pdf/2106.16038 | https://github.com/ShannonAI/ChineseBert |
-|Lex-BERT: Enhancing BERT based NER with lexicons | ICLR 2021| https://arxiv.org/pdf/2101.00396v1.pdf | https://github.com/ShannonAI/ChineseBert |
-| Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter| ACL 2021 |https://arxiv.org/pdf/2105.07148.pdf |-|
+|Lex-BERT: Enhancing BERT based NER with lexicons | ICLR 2021| https://arxiv.org/pdf/2101.00396v1.pdf | -|
+| Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter| ACL 2021 |https://arxiv.org/pdf/2105.07148.pdf |https://github.com/liuwei1206/LEBERT|
 | MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition | ACL 2021 | https://arxiv.org/pdf/2107.05418v1.pdf | https://github.com/CoderMusou/MECT4CNER |
 | Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition |ACL 2021  | https://arxiv.org/pdf/2105.06804v2.pdf | https://github.com/tricktreat/locate-and-label |
 | Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information | EMNLP-2020| https://arxiv.org/pdf/2010.15466 | https://github.com/cuhksz-nlp/AESINER |
