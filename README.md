@@ -52,7 +52,14 @@
 
 # Ner工具
 
-待完成
+- Stanza
+- LAC
+- Ltp
+- Hanlp
+- foolnltk
+- NLTK
+- BosonNLP
+- FudanNlp
 
 # 比赛
 
