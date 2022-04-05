@@ -48,7 +48,20 @@
 
 # 预训练语言模型
 
-待完成
+- ChineseBert
+- MacBert
+- SpanBert
+- XLNet
+- Roberta
+- Bert
+- StructBert
+- WoBert
+- ELECTRA
+- Ernie1.0
+- Ernie2.0
+- Ernie3.0
+- NeZha
+- MengZi
 
 # Ner工具
 
