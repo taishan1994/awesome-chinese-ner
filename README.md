@@ -83,7 +83,7 @@
 评测任务二：https://biendata.com/competition/CCKS2017_2/
 - CCKS2018开放的音乐领域的实体识别任务。
 评测任务：https://biendata.com/competition/CCKS2018_2/
--(CoNLL 2002)Annotated Corpus for Named Entity Recognition。
+- (CoNLL 2002)Annotated Corpus for Named Entity Recognition。
 地址：https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
 - NLPCC2018开放的任务型对话系统中的口语理解评测。
 地址：http://tcci.ccf.org.cn/conference/2018/taskdata.php
