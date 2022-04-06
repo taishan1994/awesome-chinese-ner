@@ -78,13 +78,13 @@
 
 # 比赛
 
-- CCKS2017开放的中文的电子病例测评相关的数据。
-评测任务一：https://biendata.com/competition/CCKS2017_1/
-评测任务二：https://biendata.com/competition/CCKS2017_2/
-- CCKS2018开放的音乐领域的实体识别任务。
-评测任务：https://biendata.com/competition/CCKS2018_2/
-- (CoNLL 2002)Annotated Corpus for Named Entity Recognition。
-地址：https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
-- NLPCC2018开放的任务型对话系统中的口语理解评测。
-地址：http://tcci.ccf.org.cn/conference/2018/taskdata.php
+- CCKS2017开放的中文的电子病例测评相关的数据。<br>
+评测任务一：https://biendata.com/competition/CCKS2017_1/<br>
+评测任务二：https://biendata.com/competition/CCKS2017_2/<br>
+- CCKS2018开放的音乐领域的实体识别任务。<br>
+评测任务：https://biendata.com/competition/CCKS2018_2/<br>
+- (CoNLL 2002)Annotated Corpus for Named Entity Recognition。<br>
+地址：https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus<br>
+- NLPCC2018开放的任务型对话系统中的口语理解评测。<br>
+地址：http://tcci.ccf.org.cn/conference/2018/taskdata.php<br>
 
