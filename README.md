@@ -47,14 +47,12 @@
 - [resume](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/ResumeNER )
 - onenotes4
 - onenotes5
-- 一家公司提供的数据集,包含人名、地名、机构名、专有名词。
-下载地址：https://bosonnlp.com/dev/resource
+- [一家公司提供的数据集,包含人名、地名、机构名、专有名词。](https://bosonnlp.com/dev/resource)
 - [人民网（04年）](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/people_daily)
 - [影视-音乐-书籍实体标注数据](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/video_music_book_datasets)
 - [中文医学文本命名实体识别 2020CCKS](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/2020_ccks_ner)
 - [医渡云实体识别数据集](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/yidu-s4k )
 - [CLUENER2020](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/cluener_public)
-- 
 
 # 预训练语言模型
 
