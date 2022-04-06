@@ -66,7 +66,7 @@
 - Ernie3.0
 - NeZha
 - MengZi
-- [https://arxiv.org/pdf/2202.12142](Pretraining without Wordpieces: Learning Over a Vocabulary of Millions of Words)
+- [Pretraining without Wordpieces: Learning Over a Vocabulary of Millions of Words](https://arxiv.org/pdf/2202.12142)
 
 # Ner工具
 
