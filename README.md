@@ -3,52 +3,52 @@
 
 # 模型
 - TURNER: The Uncertainty-based Retrieval Framework for Chinese NER 
-  2022 
-  https://arxiv.org/pdf/2202.09022 
+2022 
+https://arxiv.org/pdf/2202.09022 
 - NN-NER: Named Entity Recognition with Nearest Neighbor Search  
-  2022 
-  https://arxiv.org/pdf/2203.17103 
-  https://github.com/ShannonAI/KNN-NER
+2022 
+https://arxiv.org/pdf/2203.17103 
+https://github.com/ShannonAI/KNN-NER
 - Unified Named Entity Recognition as Word-Word Relation Classification  
-  AAAI 2022 
-  https://arxiv.org/abs/2112.10070 
-  https://github.com/ljynlp/W2NER.git
+AAAI 2022 
+https://arxiv.org/abs/2112.10070 
+https://github.com/ljynlp/W2NER.git
 - MarkBERT: Marking Word Boundaries Improves Chinese BERT 
-  2022 
-  https://arxiv.org/pdf/2203.06378
+2022 
+https://arxiv.org/pdf/2203.06378
 - MFE-NER: Multi-feature Fusion Embedding for Chinese Named Entity Recognition 
-  2021 
-  https://arxiv.org/pdf/2109.07877
+2021 
+https://arxiv.org/pdf/2109.07877
 - AdaK-NER: An Adaptive Top-K Approach for Named Entity Recognition with Incomplete Annotations
-  2021 
-  https://arxiv.org/pdf/2109.05233
+2021 
+https://arxiv.org/pdf/2109.05233
 - ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information 
-  ACL 2021
-  https://arxiv.org/pdf/2106.16038 
-  https://github.com/ShannonAI/ChineseBert
+ACL 2021
+https://arxiv.org/pdf/2106.16038 
+https://github.com/ShannonAI/ChineseBert
 - Lex-BERT: Enhancing BERT based NER with lexicons  
-  ICLR 2021 
-  https://arxiv.org/pdf/2101.00396v1.pdf 
+ICLR 2021 
+https://arxiv.org/pdf/2101.00396v1.pdf 
 - Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter 
-  ACL 2021 
-  https://arxiv.org/pdf/2105.07148.pdf 
-  https://github.com/liuwei1206/LEBERT
+ACL 2021 
+https://arxiv.org/pdf/2105.07148.pdf 
+https://github.com/liuwei1206/LEBERT
 - MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition  
-  ACL 2021  
-  https://arxiv.org/pdf/2107.05418v1.pdf  
-  https://github.com/CoderMusou/MECT4CNER 
+ACL 2021  
+https://arxiv.org/pdf/2107.05418v1.pdf  
+https://github.com/CoderMusou/MECT4CNER 
 - Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition 
-  ACL 2021   
-  https://arxiv.org/pdf/2105.06804v2.pdf  
-  https://github.com/tricktreat/locate-and-label 
+ACL 2021   
+https://arxiv.org/pdf/2105.06804v2.pdf  
+https://github.com/tricktreat/locate-and-label 
 - Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information  
-  EMNLP-2020 
-  https://arxiv.org/pdf/2010.15466  
-  https://github.com/cuhksz-nlp/AESINER 
+EMNLP-2020 
+https://arxiv.org/pdf/2010.15466  
+https://github.com/cuhksz-nlp/AESINER 
 - ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations  
-  ACL 2020  
-  https://arxiv.org/pdf/1911.00720v1.pdf  
-  https://github.com/sinovation/ZEN 
+ACL 2020  
+https://arxiv.org/pdf/1911.00720v1.pdf  
+https://github.com/sinovation/ZEN 
 - A Unified MRC Framework for Named Entity Recognition  
   ACL2020  
   https://arxiv.org/pdf/1910.11476v6.pdf  
