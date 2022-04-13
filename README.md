@@ -55,7 +55,7 @@ https://arxiv.org/pdf/1910.11476v6.pdf<br>
 https://github.com/ShannonAI/mrc-for-flat-nested-ner <br>
 - Simplify the Usage of Lexicon in Chinese NER  <br>
 ACL 2020   <br>
-https://github.com/v-mipeng/LexiconAugmentedNER<br>
+https://arxiv.org/pdf/1908.05969.pdf<br>
 https://github.com/v-mipeng/LexiconAugmentedNER <br>
 - Dice Loss for Data-imbalanced NLP Tasks  <br>
 ACL 2020  <br>
