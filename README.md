@@ -2,9 +2,9 @@
 中文命名实体识别
 
 # 模型
-|  论文名   | 会议/期刊 | 论文地址  | github地址 | 
-|  :-----------------:  | :----:  | :----: | :----: |
-| TURNER: The Uncertainty-based Retrieval Framework for Chinese NER  | 2022 | https://arxiv.org/pdf/2202.09022 | - |
+- TURNER: The Uncertainty-based Retrieval Framework for Chinese NER 
+  -- 2022 
+  -- https://arxiv.org/pdf/2202.09022 
 | NN-NER: Named Entity Recognition with Nearest Neighbor Search  | 2022 | https://arxiv.org/pdf/2203.17103 | https://github.com/ShannonAI/KNN-NER |
 | Unified Named Entity Recognition as Word-Word Relation Classification  | AAAI 2022 | https://arxiv.org/abs/2112.10070 | https://github.com/ljynlp/W2NER.git |
 | MarkBERT: Marking Word Boundaries Improves Chinese BERT | 2022 | https://arxiv.org/pdf/2203.06378 | - |
