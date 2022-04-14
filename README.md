@@ -2,6 +2,9 @@
 中文命名实体识别
 
 # 模型
+- Delving Deep into Regularity: A Simple but Effective Method for Chinese Named Entity Recognition<br>
+NAACL 2022<br>
+https://arxiv.org/pdf/2204.05544.pdf<br>
 - TURNER: The Uncertainty-based Retrieval Framework for Chinese NER<br>
 2022<br>
 https://arxiv.org/pdf/2202.09022 <br>
