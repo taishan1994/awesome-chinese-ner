@@ -172,6 +172,7 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 - NeZha
 - MengZi
 - [Pretraining without Wordpieces: Learning Over a Vocabulary of Millions of Words](https://arxiv.org/pdf/2202.12142)
+- [PERT: Pre-Training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906)
 
 # Ner工具
 
