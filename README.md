@@ -132,6 +132,12 @@ https://github.com/WHUIR/ME-CNER <br>
 IJCNLP 2019  <br>
 https://arxiv.org/pdf/1909.10148v1.pdf<br>
 https://github.com/allanj/ner_with_dependency <br>
+- CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition <br>
+NAACL-HLT (1) 2019 <br>
+- CNN-Based Chinese NER with Lexicon Rethinking <br>
+IJCAI 2019 <br>
+https://www.ijcai.org/proceedings/2019/0692.pdf <br>
+https://aclanthology.org/N19-1342.pdf <br>
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network <br>
 IJCNLP 2019  <br>
 https://aclanthology.org/D19-1396.pdf<br>
