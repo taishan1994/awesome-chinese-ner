@@ -76,6 +76,10 @@ https://github.com/AidenHuen/FGN-NER<br>
 2020 <br>
 https://arxiv.org/pdf/2007.08416v1.pdf<br>
 https://github.com/zerohd4869/SLK-NER <br>
+- Entity Enhanced BERT Pre-training for Chinese NER
+ACL 2020
+https://aclanthology.org/2020.emnlp-main.518.pdf
+https://github.com/jiachenwestlake/Entity_BERT
 - Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information  <br>
 ACL2020 <br>
 https://arxiv.org/pdf/2010.15466v1.pdf<br>
