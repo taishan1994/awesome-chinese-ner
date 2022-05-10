@@ -53,7 +53,7 @@ ACL 2020  <br>
 https://arxiv.org/pdf/1911.00720v1.pdf<br>
 https://github.com/sinovation/ZEN <br>
 - A Unified MRC Framework for Named Entity Recognition  <br>
-ACL2020  <br>
+ACL 2020  <br>
 https://arxiv.org/pdf/1910.11476v6.pdf<br>
 https://github.com/ShannonAI/mrc-for-flat-nested-ner <br>
 - Simplify the Usage of Lexicon in Chinese NER  <br>
@@ -76,10 +76,10 @@ https://github.com/AidenHuen/FGN-NER<br>
 2020 <br>
 https://arxiv.org/pdf/2007.08416v1.pdf<br>
 https://github.com/zerohd4869/SLK-NER <br>
-- Entity Enhanced BERT Pre-training for Chinese NER
-EMNLP 2020
-https://aclanthology.org/2020.emnlp-main.518.pdf
-https://github.com/jiachenwestlake/Entity_BERT
+- Entity Enhanced BERT Pre-training for Chinese NER<br>
+EMNLP 2020<br>
+https://aclanthology.org/2020.emnlp-main.518.pdf<br>
+https://github.com/jiachenwestlake/Entity_BERT<br>
 - Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information  <br>
 ACL2020 <br>
 https://arxiv.org/pdf/2010.15466v1.pdf<br>
