@@ -64,6 +64,9 @@ https://github.com/v-mipeng/LexiconAugmentedNER <br>
 ACL 2020  <br>
 https://arxiv.org/pdf/1911.02855v3.pdf<br>
 https://github.com/ShannonAI/dice_loss_for_NLP <br>
+- Porous Lattice Transformer Encoder for Chinese NER<br>
+COLING 2020<br>
+https://aclanthology.org/2020.coling-main.340.pdf<br>
 - FLAT: Chinese NER Using Flat-Lattice Transformer  <br>
 ACL 2020  <br>
 https://arxiv.org/pdf/2004.11795v2.pdf<br>
