@@ -2,6 +2,9 @@
 中文命名实体识别
 
 # 模型
+- Parallel Instance Query Network for Named Entity Recognition <br>
+2022 <br>
+https://arxiv.org/pdf/2203.10545v1.pdf <br>
 - Delving Deep into Regularity: A Simple but Effective Method for Chinese Named Entity Recognition<br>
 NAACL 2022<br>
 https://arxiv.org/pdf/2204.05544.pdf<br>
