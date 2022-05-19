@@ -2,6 +2,12 @@
 中文命名实体识别
 
 # 模型
+- Unified Structure Generation for Universal Information Extraction <br>
+（一统实体识别、关系抽取、事件抽取、情感分析） <br>
+ACL 2022 <br>
+https://arxiv.org/pdf/2203.12277.pdf <br>
+https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie <br>
+https://github.com/universal-ie/UIE <br>
 - Parallel Instance Query Network for Named Entity Recognition <br>
 2022 <br>
 https://arxiv.org/pdf/2203.10545v1.pdf <br>
