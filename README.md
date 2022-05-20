@@ -207,6 +207,7 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 - NLTK
 - BosonNLP
 - FudanNlp
+- Jionlp
 
 # 比赛
 
