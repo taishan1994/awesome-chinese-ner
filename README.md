@@ -38,6 +38,9 @@ https://arxiv.org/pdf/2109.05233<br>
 ACL 2021<br>
 https://arxiv.org/pdf/2106.16038<br>
 https://github.com/ShannonAI/ChineseBert<br>
+- Enhanced Language Representation with Label Knowledge for Span Extraction<br>
+EMNLP 2021<br>
+https://aclanthology.org/2021.emnlp-main.379.pdf<br>
 - Lex-BERT: Enhancing BERT based NER with lexicons  <br>
 ICLR 2021 <br>
 https://arxiv.org/pdf/2101.00396v1.pdf<br>
