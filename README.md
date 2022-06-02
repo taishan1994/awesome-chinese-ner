@@ -2,6 +2,9 @@
 中文命名实体识别
 
 # 模型
+- NFLAT: Non-Flat-Lattice Transformer for Chinese Named Entity Recognition <br>
+2022 <br>
+https://arxiv.org/pdf/2205.05832.pdf <br>
 - Unified Structure Generation for Universal Information Extraction <br>
 （一统实体识别、关系抽取、事件抽取、情感分析） <br>
 ACL 2022 <br>
