@@ -60,6 +60,10 @@ https://github.com/CoderMusou/MECT4CNER <br>
 ACL 2021   <br>
 https://arxiv.org/pdf/2105.06804v2.pdf<br>
 https://github.com/tricktreat/locate-and-label <br>
+- Dynamic Modeling Cross- and Self-Lattice Attention Network for Chinese NER<br>
+AAAI 2021<br>
+https://ojs.aaai.org/index.php/AAAI/article/view/17706/17513<br>
+https://github.com/zs50910/DCSAN-for-Chinese-NER<br>
 - Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information  <br>
 EMNLP-2020 <br>
 https://arxiv.org/pdf/2010.15466  <br>
