@@ -229,6 +229,7 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 - BosonNLP
 - FudanNlp
 - Jionlp
+- HarvestText
 
 # 比赛
 
