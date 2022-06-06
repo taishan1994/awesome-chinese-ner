@@ -11,6 +11,11 @@ ACL 2022 <br>
 https://arxiv.org/pdf/2203.12277.pdf <br>
 https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie <br>
 https://github.com/universal-ie/UIE <br>
+  - DEEPSTRUCT: Pretraining of Language Models for Structure Prediction <br>
+  2022<br>
+  https://arxiv.org/pdf/2205.10475v1.pdf<br>
+  https://github.com/cgraywang/deepstruct<br>
+
 - Parallel Instance Query Network for Named Entity Recognition <br>
 2022 <br>
 https://arxiv.org/pdf/2203.10545v1.pdf <br>
