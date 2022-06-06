@@ -11,6 +11,7 @@ ACL 2022 <br>
 https://arxiv.org/pdf/2203.12277.pdf <br>
 https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie <br>
 https://github.com/universal-ie/UIE <br>
+以下这篇也是通用的，只是英文方面的，没有中文数据上的实验：
   - DEEPSTRUCT: Pretraining of Language Models for Structure Prediction <br>
   2022<br>
   https://arxiv.org/pdf/2205.10475v1.pdf<br>
