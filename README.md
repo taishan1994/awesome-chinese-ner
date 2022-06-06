@@ -2,6 +2,10 @@
 中文命名实体识别
 
 # 模型
+- Boundary Smoothing for Named Entity Recognition
+ACL 2022
+https://arxiv.org/pdf/2204.12031v1.pdf
+https://github.com/syuoni/eznlp
 - NFLAT: Non-Flat-Lattice Transformer for Chinese Named Entity Recognition <br>
 2022 <br>
 https://arxiv.org/pdf/2205.05832.pdf <br>
