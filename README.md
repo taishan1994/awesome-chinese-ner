@@ -185,6 +185,28 @@ EMNLP 2018  <br>
 https://aclanthology.org/D18-1017.pdf<br>
 https://github.com/CPF-NLPR/AT4ChineseNER <br>
 
+# 非中文模型
+没有针对于中文的实验，但是思想可以借鉴的： <br>
+- A Unified Generative Framework for Various NER Subtasks <br>
+（使用BART生成模型进行命名实体识别） <br>
+ACL-ICJNLP 2021 <br>
+https://arxiv.org/pdf/2106.01223.pdf <br>
+https://github.com/yhcc/BARTNER <br>
+(以下四篇是基于prompt的命名实体识别) <br>
+- Template-Based Named Entity Recognition Using BART <br>
+https://arxiv.org/abs/2106.01760 <br>
+https://github.com/Nealcly/templateNER <br>
+- Good Examples Make A Faster Learner: Simple Demonstration-based Learning for Low-resource NER <br>
+https://arxiv.org/abs/2110.08454 <br>
+https://github.com/INK-USC/fewNER <br>
+- LightNER: A Lightweight Generative Framework with Prompt-guided Attention for Low-resource NER <br>
+https://arxiv.org/abs/2109.00720 <br>
+https://github.com/zjunlp/DeepKE/blob/main/example/ner/few-shot/README_CN.md <br>
+- Template-free Prompt Tuning for Few-shot NER <br>
+https://arxiv.org/abs/2109.13532 <br>
+https://github.com/rtmaww/EntLM/ <br>
+
+
 # 数据集
 
 - [MSRA](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/MSRA)
