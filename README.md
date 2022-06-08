@@ -1,6 +1,9 @@
 # awesome-chinese-ner
 中文命名实体识别
 
+#### 命名实体识别综述（中文）
+- (命名实体识别方法研究综述)[http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2112109] 
+
 # 模型
 - Boundary Smoothing for Named Entity Recognition<br>
 ACL 2022<br>
