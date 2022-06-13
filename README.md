@@ -10,6 +10,10 @@ http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2112109<br>
 http://fcst.ceaj.org/CN/abstract/abstract2902.shtml<br>
 
 # 模型
+- Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting<br>
+NAACL 2022 <br>
+https://arxiv.org/pdf/2204.11406.pdf<br>
+https:github.com/LindgeW/MetaAug4NER<br>
 - Boundary Smoothing for Named Entity Recognition<br>
 ACL 2022<br>
 https://arxiv.org/pdf/2204.12031v1.pdf<br>
