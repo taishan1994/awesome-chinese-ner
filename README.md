@@ -254,16 +254,17 @@ https://github.com/rtmaww/EntLM/ <br>
 
 # Ner工具
 
-- Stanza
-- LAC
-- Ltp
-- Hanlp
-- foolnltk
-- NLTK
+- [Stanza](https://github.com/stanfordnlp/stanza)
+- [LAC](https://github.com/baidu/lac)
+- [Ltp](https://github.com/HIT-SCIR/ltp)
+- [Hanlp](https://github.com/hankcs/HanLP)
+- [foolnltk](https://github.com/rockyzhengwu/FoolNLTK)
+- [NLTK](https://github.com/nltk/nltk)
 - BosonNLP
-- FudanNlp
-- Jionlp
-- HarvestText
+- [FudanNlp](https://github.com/FudanNLP/fnlp)
+- [Jionlp](https://github.com/dongrixinyu/JioNLP)
+- [HarvestText](https://github.com/blmoistawinde/HarvestText)
+- [fastHan](https://github.com/fastnlp/fastHan)
 
 # 比赛
 
