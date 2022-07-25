@@ -3,7 +3,11 @@
 
 #### 延申
 - 中文预训练模型综述 <br>
-- https://www.jsjkx.com/CN/10.11896/jsjkx.211200018
+https://www.jsjkx.com/CN/10.11896/jsjkx.211200018
+- 中文预训练模型下载地址<br>
+https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+- 中文词向量下载地址<br>
+https://github.com/Embedding/Chinese-Word-Vectors
 
 #### 命名实体识别综述（中文）
 - 命名实体识别方法研究综述<br>
