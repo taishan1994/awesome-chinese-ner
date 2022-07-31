@@ -286,9 +286,9 @@ https://github.com/rtmaww/EntLM/ <br>
 地址：https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus<br>
 - NLPCC2018开放的任务型对话系统中的口语理解评测。<br>
 地址：http://tcci.ccf.org.cn/conference/2018/taskdata.php<br>
-- 非结构化商业文本信息中隐私信息识别
+- 非结构化商业文本信息中隐私信息识别<br>
 地址：https://www.datafountain.cn/competitions/472/datasets
-- 商品标题识别
+- 商品标题识别<br>
 地址：https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content/3
-- CCKS2021中文NLP地址要素解析
+- CCKS2021中文NLP地址要素解析<br>
 地址：https://tianchi.aliyun.com/competition/entrance/531900/introduction
