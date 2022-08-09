@@ -17,7 +17,7 @@ http://61.175.198.136:8083/rwt/125/http/GEZC6MJZFZZUPLSSGM3B/Qikan/Article/Detai
 2022年 计算机科学与探索<br>
 http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2112109<br>
 - 中文命名实体识别综述<br>
-2021年 计算机科学与探<br>
+2021年 计算机科学与探索<br>
 http://fcst.ceaj.org/CN/abstract/abstract2902.shtml<br>
 
 # 模型
