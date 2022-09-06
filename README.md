@@ -21,6 +21,9 @@ http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2112109<br>
 http://fcst.ceaj.org/CN/abstract/abstract2902.shtml<br>
 
 # 模型
+- Domain-Specific NER via Retrieving Correlated Samples<br>
+COLING 2022<br>
+https://arxiv.org/pdf/2208.12995.pdf<br>
 - Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting<br>
 NAACL 2022 <br>
 https://arxiv.org/pdf/2204.11406.pdf<br>
