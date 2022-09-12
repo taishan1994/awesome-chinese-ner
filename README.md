@@ -27,7 +27,7 @@ https://arxiv.org/pdf/2208.12995.pdf<br>
 - Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting<br>
 NAACL 2022 <br>
 https://arxiv.org/pdf/2204.11406.pdf<br>
-https:github.com/LindgeW/MetaAug4NER<br>
+https://github.com/LindgeW/MetaAug4NER<br>
 - Boundary Smoothing for Named Entity Recognition<br>
 ACL 2022<br>
 https://arxiv.org/pdf/2204.12031v1.pdf<br>
