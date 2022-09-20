@@ -8,6 +8,8 @@ https://www.jsjkx.com/CN/10.11896/jsjkx.211200018
 https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
 - 中文词向量下载地址<br>
 https://github.com/Embedding/Chinese-Word-Vectors
+- Bilstm_CRF怎么调参？ <br>
+https://arxiv.org/pdf/1707.06799.pdf
 
 #### 命名实体识别综述（中文）
 - 基于深度学习的中文命名实体识别最新研究进展综述<br>
