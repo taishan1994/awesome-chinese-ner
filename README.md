@@ -23,6 +23,9 @@ http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2112109<br>
 http://fcst.ceaj.org/CN/abstract/abstract2902.shtml<br>
 
 # 模型
+- Unsupervised Boundary-Aware Language Model Pretraining for Chinese Sequence Labeling<br>
+2022<br>
+https://arxiv.org/pdf/2210.15231.pdf<br>
 - Improving Chinese Named Entity Recognition by Search Engine Augmentation<br>
 2022<br>
 https://arxiv.org/pdf/2210.12662.pdf<br>
