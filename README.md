@@ -271,6 +271,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - MengZi
 - [Pretraining without Wordpieces: Learning Over a Vocabulary of Millions of Words](https://arxiv.org/pdf/2202.12142)
 - [PERT: Pre-Training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906)
+- [RoChBert: Towards Robust BERT Fine-tuning for Chinese](https://arxiv.org/pdf/2210.15944.pdf) EMNLP2022
 
 # Ner工具
 
@@ -285,6 +286,8 @@ https://github.com/rtmaww/EntLM/ <br>
 - [Jionlp](https://github.com/dongrixinyu/JioNLP)
 - [HarvestText](https://github.com/blmoistawinde/HarvestText)
 - [fastHan](https://github.com/fastnlp/fastHan)
+- [EsayNLP](https://github.com/alibaba/EasyNLP)
+- [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
 
 # 比赛
 
