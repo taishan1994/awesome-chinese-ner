@@ -258,24 +258,27 @@ https://github.com/rtmaww/EntLM/ <br>
 
 # 预训练语言模型
 
-- ChineseBert
-- MacBert
-- SpanBert
-- XLNet
-- Roberta
-- Bert
-- StructBert
-- WoBert
-- ELECTRA
-- Ernie1.0
-- Ernie2.0
-- Ernie3.0
-- NeZha
-- MengZi
+- [ChineseBert](https://aclanthology.org/2021.acl-long.161/) ACL2021
+- [MacBert](https://arxiv.org/pdf/2004.13922.pdf) 2020
+- [SpanBert](https://arxiv.org/pdf/1907.10529.pdf)
+- [XLNet](https://arxiv.org/pdf/1906.08237.pdf)
+- [Roberta](https://arxiv.org/pdf/1907.11692.pdf)
+- [Bert](https://arxiv.org/pdf/1810.04805.pdf)
+- [StructBert](https://arxiv.org/abs/1908.04577)
+- [WoBert](https://github.com/ZhuiyiTechnology/WoBERT)
+- [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB)
+- [Ernie1.0](https://arxiv.org/pdf/1904.09223)
+- [Ernie2.0](https://arxiv.org/abs/1907.12412)
+- [Ernie3.0](https://arxiv.org/abs/2107.02137)
+- [NeZha](https://arxiv.org/abs/1909.00204)
+- [MengZi](https://arxiv.org/pdf/2110.06696.pdf )
+- [ZEN](https://arxiv.org/pdf/1911.00720.pdf)
+- [ALBERT](https://arxiv.org/pdf/1909.11942.pdf)
 - [Pretraining without Wordpieces: Learning Over a Vocabulary of Millions of Words](https://arxiv.org/pdf/2202.12142)
 - [PERT: Pre-Training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906)
 - [RoChBert: Towards Robust BERT Fine-tuning for Chinese](https://arxiv.org/pdf/2210.15944.pdf) EMNLP2022
 - [MarkBERT: Marking Word Boundaries Improves Chinese BERT](https://arxiv.org/pdf/2203.06378.pdf) 2022
+- [MVP-BERT: REDESIGNING VOCABULARIES FOR CHINESE BERT AND MULTI-VOCAB PRETRAINING](https://arxiv.org/pdf/2011.08539.pdf) 2022
 
 # Ner工具
 
