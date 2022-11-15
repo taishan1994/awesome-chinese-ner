@@ -313,3 +313,5 @@ https://github.com/rtmaww/EntLM/ <br>
 地址：https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content/3
 - CCKS2021中文NLP地址要素解析<br>
 地址：https://tianchi.aliyun.com/competition/entrance/531900/introduction
+- CAIL2022信息抽取赛道
+地址：http://cail.cipsc.org.cn/task6.html?raceID=6&cail_tag=2022
