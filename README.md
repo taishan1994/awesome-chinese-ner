@@ -278,7 +278,8 @@ https://github.com/rtmaww/EntLM/ <br>
 - [PERT: Pre-Training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906)
 - [RoChBert: Towards Robust BERT Fine-tuning for Chinese](https://arxiv.org/pdf/2210.15944.pdf) EMNLP2022
 - [MarkBERT: Marking Word Boundaries Improves Chinese BERT](https://arxiv.org/pdf/2203.06378.pdf) 2022
-- [MVP-BERT: REDESIGNING VOCABULARIES FOR CHINESE BERT AND MULTI-VOCAB PRETRAINING](https://arxiv.org/pdf/2011.08539.pdf) 2022
+- [MVP-BERT: REDESIGNING VOCABULARIES FOR CHINESE BERT AND MULTI-VOCAB PRETRAINING](https://arxiv.org/pdf/2011.08539.pdf) 2022
+- [LERT: A Linguistically-motivated Pre-trained Language Model](https://arxiv.org/pdf/2211.05344v1.pdf) 2022
 
 # Ner工具
 
