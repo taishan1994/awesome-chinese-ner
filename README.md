@@ -23,6 +23,9 @@ http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2112109<br>
 http://fcst.ceaj.org/CN/abstract/abstract2902.shtml<br>
 
 # 模型
+- A hybrid Transformer approach for Chinese NER with features augmentation
+Expert Syst. Appl 2022
+file:///C:/Users/Administrator/Desktop/SSRN-id4087645.pdf
 - Adaptive Threshold Selective Self-Attention for Chinese NER<br>
 COLING 2022<br>
 https://aclanthology.org/2022.coling-1.157.pdf
