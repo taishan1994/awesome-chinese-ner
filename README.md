@@ -29,9 +29,9 @@ Neurocomputing 2022<br>
 - Two Languages Are Better than One: Bilingual Enhancement for Chinese Named Entity Recognition<br>
 COLING 2022<br>
 https://aclanthology.org/2022.coling-1.176.pdf
-- A hybrid Transformer approach for Chinese NER with features augmentation
-Expert Syst. Appl 2022
-file:///C:/Users/Administrator/Desktop/SSRN-id4087645.pdf
+- A hybrid Transformer approach for Chinese NER with features augmentation<br>
+Expert Syst. Appl 2022<br>
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4087645
 - Adaptive Threshold Selective Self-Attention for Chinese NER<br>
 COLING 2022<br>
 https://aclanthology.org/2022.coling-1.157.pdf
