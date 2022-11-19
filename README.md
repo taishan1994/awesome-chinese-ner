@@ -21,8 +21,14 @@ http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2112109<br>
 - 中文命名实体识别综述<br>
 2021年 计算机科学与探索<br>
 http://fcst.ceaj.org/CN/abstract/abstract2902.shtml<br>
+- Chinese named entity recognition: The state of the art<br>
+Neurocomputing 2022<br>
+[link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
+- Two Languages Are Better than One: Bilingual Enhancement for Chinese Named Entity Recognition<br>
+COLING 2022<br>
+https://aclanthology.org/2022.coling-1.176.pdf
 - A hybrid Transformer approach for Chinese NER with features augmentation
 Expert Syst. Appl 2022
 file:///C:/Users/Administrator/Desktop/SSRN-id4087645.pdf
