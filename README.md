@@ -26,6 +26,13 @@ Neurocomputing 2022<br>
 [link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
+- Mulco: Recognizing Chinese Nested Named Entities Through Multiple Scopes<br>
+2022<br>
+https://arxiv.org/pdf/2211.10854.pdf
+- Unsupervised Boundary-Aware Language Model Pretraining for Chinese Sequence Labeling<br>
+EMNLP 2022<br>
+https://arxiv.org/pdf/2210.15231.pdf<br>
+http://github.com/modelscope/adaseq/examples/babert
 - Domain-Specific NER via Retrieving Correlated Samples<br>
 COLING 2022<br>
 https://arxiv.org/pdf/2208.12995.pdf
