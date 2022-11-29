@@ -26,6 +26,9 @@ Neurocomputing 2022<br>
 [link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
+- EiCi: A New Method of Dynamic Embedding Incorporating Contextual Information in Chinese NER<br>
+2022<br>
+https://openreview.net/pdf?id=0TKg4UlnEEQ
 - Deep Span Representations for Named Entity Recognition<br>
 2022<br>
 https://arxiv.org/pdf/2210.04182v1.pdf
