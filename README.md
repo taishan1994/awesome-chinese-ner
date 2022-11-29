@@ -312,6 +312,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [MVP-BERT: REDESIGNING VOCABULARIES FOR CHINESE BERT AND MULTI-VOCAB PRETRAINING](https://arxiv.org/pdf/2011.08539.pdf) 2022
 - [LERT: A Linguistically-motivated Pre-trained Language Model](https://arxiv.org/pdf/2211.05344v1.pdf) 2022
 - [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/pdf/2008.11869.pdf) 2022
+- [BURT: BERT-inspired Universal Representation from Learning Meaningful Segment](https://arxiv.org/pdf/2012.14320.pdf) 2021
 
 # Ner工具
 
