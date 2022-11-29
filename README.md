@@ -299,6 +299,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [Ernie1.0](https://arxiv.org/pdf/1904.09223)
 - [Ernie2.0](https://arxiv.org/abs/1907.12412)
 - [Ernie3.0](https://arxiv.org/abs/2107.02137)
+- [ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding](https://arxiv.org/pdf/2010.12148.pdf)
 - [NeZha](https://arxiv.org/abs/1909.00204)
 - [MengZi](https://arxiv.org/pdf/2110.06696.pdf )
 - [ZEN](https://arxiv.org/pdf/1911.00720.pdf)
