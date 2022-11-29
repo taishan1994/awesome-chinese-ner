@@ -27,7 +27,7 @@ Neurocomputing 2022<br>
 
 # 模型
 - EiCi: A New Method of Dynamic Embedding Incorporating Contextual Information in Chinese NER<br>
-这个和AMBERT的思想感觉差不多：[AMBERT]((https://arxiv.org/pdf/2008.11869.pdf)<br>
+这个和AMBERT的思想感觉差不多：[AMBERT](https://arxiv.org/pdf/2008.11869.pdf)<br>
 2022<br>
 https://openreview.net/pdf?id=0TKg4UlnEEQ
 - Deep Span Representations for Named Entity Recognition<br>
