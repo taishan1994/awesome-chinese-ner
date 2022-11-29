@@ -311,23 +311,25 @@ https://github.com/rtmaww/EntLM/ <br>
 - [MarkBERT: Marking Word Boundaries Improves Chinese BERT](https://arxiv.org/pdf/2203.06378.pdf) 2022
 - [MVP-BERT: REDESIGNING VOCABULARIES FOR CHINESE BERT AND MULTI-VOCAB PRETRAINING](https://arxiv.org/pdf/2011.08539.pdf) 2022
 - [LERT: A Linguistically-motivated Pre-trained Language Model](https://arxiv.org/pdf/2211.05344v1.pdf) 2022
-- [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/pdf/2008.11869.pdf)
+- [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/pdf/2008.11869.pdf) 2022
 
 # Ner工具
 
 - [Stanza](https://github.com/stanfordnlp/stanza)
 - [LAC](https://github.com/baidu/lac)
-- [Ltp](https://github.com/HIT-SCIR/ltp)
+- [Ltp](https://github.com/HIT-SCIR/ltp) 哈工大
 - [Hanlp](https://github.com/hankcs/HanLP)
 - [foolnltk](https://github.com/rockyzhengwu/FoolNLTK)
 - [NLTK](https://github.com/nltk/nltk)
 - BosonNLP
-- [FudanNlp](https://github.com/FudanNLP/fnlp)
+- [FudanNlp](https://github.com/FudanNLP/fnlp) 复旦大学
 - [Jionlp](https://github.com/dongrixinyu/JioNLP)
 - [HarvestText](https://github.com/blmoistawinde/HarvestText)
 - [fastHan](https://github.com/fastnlp/fastHan)
-- [EsayNLP](https://github.com/alibaba/EasyNLP)
-- [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
+- [EsayNLP](https://github.com/alibaba/EasyNLP) 阿里巴巴
+- [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) 百度
+- [AliceMind](https://github.com/alibaba/AliceMind) 阿里巴巴
+- [spacy](https://github.com/explosion/spaCy)
 
 # 比赛
 
