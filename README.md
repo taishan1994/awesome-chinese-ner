@@ -27,6 +27,7 @@ Neurocomputing 2022<br>
 
 # 模型
 - EiCi: A New Method of Dynamic Embedding Incorporating Contextual Information in Chinese NER<br>
+这个和AMBERT的思想感觉差不多：[AMBERT]((https://arxiv.org/pdf/2008.11869.pdf)<br>
 2022<br>
 https://openreview.net/pdf?id=0TKg4UlnEEQ
 - Deep Span Representations for Named Entity Recognition<br>
@@ -310,6 +311,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [MarkBERT: Marking Word Boundaries Improves Chinese BERT](https://arxiv.org/pdf/2203.06378.pdf) 2022
 - [MVP-BERT: REDESIGNING VOCABULARIES FOR CHINESE BERT AND MULTI-VOCAB PRETRAINING](https://arxiv.org/pdf/2011.08539.pdf) 2022
 - [LERT: A Linguistically-motivated Pre-trained Language Model](https://arxiv.org/pdf/2211.05344v1.pdf) 2022
+- [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/pdf/2008.11869.pdf)
 
 # Ner工具
 
