@@ -315,6 +315,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/pdf/2008.11869.pdf) 2022
 - [BURT: BERT-inspired Universal Representation from Learning Meaningful Segment](https://arxiv.org/pdf/2012.14320.pdf) 2021
 - [Towards Efficient NLP: A Standard Evaluation and A Strong Baseline](https://aclanthology.org/2022.naacl-main.240.pdf)
+- [Fengshenbang 1.0: Being the Foundation of Chinese Cognitive Intelligence](https://arxiv.org/pdf/2209.02970.pdf)
 
 # Ner工具
 
