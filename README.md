@@ -334,6 +334,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) 百度
 - [AliceMind](https://github.com/alibaba/AliceMind) 阿里巴巴
 - [spacy](https://github.com/explosion/spaCy)
+- [DeepKE](https://github.com/zjunlp/DeepKE)
 
 # 比赛
 
