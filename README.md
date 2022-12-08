@@ -335,6 +335,9 @@ https://github.com/rtmaww/EntLM/ <br>
 - [AliceMind](https://github.com/alibaba/AliceMind) 阿里巴巴
 - [spacy](https://github.com/explosion/spaCy)
 - [DeepKE](https://github.com/zjunlp/DeepKE)
+- [coreNlp](https://github.com/stanfordnlp/CoreNLP) JAVA/Python
+- [opennlp](https://github.com/apache/opennlp) JAVA
+- [NLPIR](https://github.com/NLPIR-team/NLPIR/)
 
 # 比赛
 
