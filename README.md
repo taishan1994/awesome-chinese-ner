@@ -328,6 +328,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [BURT: BERT-inspired Universal Representation from Learning Meaningful Segment](https://arxiv.org/pdf/2012.14320.pdf) 2021
 - [Towards Efficient NLP: A Standard Evaluation and A Strong Baseline](https://aclanthology.org/2022.naacl-main.240.pdf)
 - [Fengshenbang 1.0: Being the Foundation of Chinese Cognitive Intelligence](https://arxiv.org/pdf/2209.02970.pdf)
+- [AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models](https://github.com/modelscope/AdaSeq) 多种方法
 
 # Ner工具
 
