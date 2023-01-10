@@ -306,6 +306,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [医渡云实体识别数据集](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/yidu-s4k )
 - [CLUENER2020](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/cluener_public)
 - [不同任务中文数据集整理](https://github.com/liucongg/NLPDataSet)
+- [医疗相关的数据集](http://172.16.1.113:9005/docs)
 
 # 预训练语言模型
 
