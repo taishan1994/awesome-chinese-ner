@@ -315,6 +315,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [CLUENER2020](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/cluener_public)
 - [不同任务中文数据集整理](https://github.com/liucongg/NLPDataSet)
 - [医疗相关的数据集](http://172.16.1.113:9005/docs)
+- [30+ner数据汇总](https://zhuanlan.zhihu.com/p/603850842)
 
 # 预训练语言模型
 
