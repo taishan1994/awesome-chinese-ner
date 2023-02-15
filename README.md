@@ -349,7 +349,8 @@ https://github.com/rtmaww/EntLM/ <br>
 - [Towards Efficient NLP: A Standard Evaluation and A Strong Baseline](https://aclanthology.org/2022.naacl-main.240.pdf)
 - [Fengshenbang 1.0: Being the Foundation of Chinese Cognitive Intelligence](https://arxiv.org/pdf/2209.02970.pdf)
 - [AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models](https://github.com/modelscope/AdaSeq) 多种方法
-
+- [TaCL: Improving BERT Pre-training withToken-aware Contrastive Learning](https://arxiv.org/pdf/2111.04198.pdf) NAACL 2022
+ 
 # Ner工具
 
 - [Stanza](https://github.com/stanfordnlp/stanza)
