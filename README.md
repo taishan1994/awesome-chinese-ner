@@ -276,7 +276,7 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 
 # 非中文模型
 没有针对于中文的实验，但是思想可以借鉴的： <br>
-- One Model for All Domains:Collaborative Domain-Prefix Tuning for Cross-Domain NER<br>
+- One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER<br>
 2023<br>
 https://arxiv.org/pdf/2301.10410v2.pdf<br>
 https://github.com/zjunlp/DeepKE/tree/main/example/ner/cross<br>
