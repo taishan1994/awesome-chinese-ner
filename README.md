@@ -36,6 +36,7 @@ https://dl.acm.org/doi/10.1145/3531534<br>
 - PUnifiedNER: a Prompting-based Unified NER System for Diverse Datasets<br>
 AAAI 2023<br>
 https://arxiv.org/pdf/2211.14838.pdf<br>
+https://github.com/GeorgeLuImmortal/PUnifiedNER<br>
 - END-TO-END ENTITY DETECTION WITH PROPOSER ANDREGRESSOR<br>
 借鉴目标检测的思想<br>
 2022<br>
