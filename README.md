@@ -280,11 +280,11 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 没有针对于中文的实验，但是思想可以借鉴的： <br>
 - TOE: A Grid-Tagging Discontinuous NER Model Enhanced by Embedding Tag/Word Relations and More Fine-Grained Tags<br>
 改进wW2NER模型<br>
-IEEE TASLP<br>
+IEEE TASLP(Transactions on Audio, Speech and Language Processing)<br>
 https://arxiv.org/pdf/2211.00684.pdf<br>
 https://github.com/solkx/TOE<br>
 - OPTIMIZING BI-ENCODER FOR NAMED ENTITY RECOGNITION VIA CONTRASTIVE LEARNING<br>
-ICLR 2023(Transactions on Audio, Speech and Language Processing)<br>
+ICLR 2023<br>
 https://arxiv.org/pdf/2208.14565v2.pdf<br>
 github.com/microsoft/binder<br>
 - One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER<br>
