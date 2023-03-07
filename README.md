@@ -278,6 +278,11 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- DEEPSTRUCT: Pretraining of Language Models for Structure Prediction<br>
+通用信息抽取<br>
+ACL 2022<br><br>
+https://arxiv.org/pdf/2205.10475v2.pdf<br>
+https://github.com/cgraywang/deepstruct<br>
 - TOE: A Grid-Tagging Discontinuous NER Model Enhanced by Embedding Tag/Word Relations and More Fine-Grained Tags<br>
 改进W2NER模型<br>
 IEEE TASLP(Transactions on Audio, Speech and Language Processing)<br>
