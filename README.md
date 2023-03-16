@@ -332,6 +332,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [不同任务中文数据集整理](https://github.com/liucongg/NLPDataSet)
 - [医疗相关的数据集](http://172.16.1.113:9005/docs)
 - [30+ner数据汇总](https://zhuanlan.zhihu.com/p/603850842)
+- [中文实体识别数据集汇总](https://www.zhihu.com/question/264243637/answer/2936822902)
 
 # 预训练语言模型
 
