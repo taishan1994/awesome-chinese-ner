@@ -278,6 +278,9 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- MULTI-TASK TRANSFORMER WITH RELATION-ATTENTION AND TYPE-ATTENTION FOR NAMED ENTITY RECOGNITION<br>
+https://arxiv.org/pdf/2303.10870v1.pdf<br>
+2023<br>
 - DEEPSTRUCT: Pretraining of Language Models for Structure Prediction<br>
 通用信息抽取<br>
 ACL 2022<br>
