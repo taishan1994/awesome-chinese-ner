@@ -10,7 +10,7 @@ https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
 https://github.com/Embedding/Chinese-Word-Vectors
 - Bilstm_CRF怎么调参？ <br>
 https://arxiv.org/pdf/1707.06799.pdf
-- 使用chatgpt进行信息抽取（实体、关系、事件）
+- 使用chatgpt进行信息抽取（实体、关系、事件）<br>
 Zero-Shot Information Extraction via Chatting with ChatGPT<br>
 演示地址：http://124.221.16.143:5000/<br>
 https://arxiv.org/pdf/2302.10205.pdf<br>
