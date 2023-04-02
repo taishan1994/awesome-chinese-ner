@@ -399,6 +399,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [coreNlp](https://github.com/stanfordnlp/CoreNLP) JAVA/Python
 - [opennlp](https://github.com/apache/opennlp) JAVA
 - [NLPIR](https://github.com/NLPIR-team/NLPIR/)
+- [trankit](https://github.com/nlp-uoregon/trankit) 多语言
 
 # 比赛
 
