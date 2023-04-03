@@ -15,7 +15,10 @@ Zero-Shot Information Extraction via Chatting with ChatGPT<br>
 演示地址：http://124.221.16.143:5000/<br>
 https://arxiv.org/pdf/2302.10205.pdf<br>
 https://github.com/cocacola-lab/ChatIE<br>
-
+这篇把它放在延申这里：
+- Unified Text Structuralization with Instruction-tuned Language Models<br>
+2023<br>
+https://arxiv.org/pdf/2303.14956v2.pdf<br>
 
 #### 命名实体识别综述（中文）
 - 基于深度学习的中文命名实体识别最新研究进展综述<br>
