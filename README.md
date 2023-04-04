@@ -380,6 +380,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models](https://github.com/modelscope/AdaSeq) 多种方法
 - [TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning](https://arxiv.org/pdf/2111.04198.pdf) NAACL 2022
 - [Character, Word, or Both? Revisiting the Segmentation Granularity for Chinese Pre-trained Language Models](https://arxiv.org/ftp/arxiv/papers/2303/2303.10893.pdf) 2023
+- [MiniRBT: A Two-stage Distilled Small Chinese Pre-trained Model](https://arxiv.org/pdf/2304.00717v1.pdf) 2023
  
 # Ner工具
 
