@@ -313,7 +313,7 @@ github.com/microsoft/binder<br>
 https://arxiv.org/pdf/2301.10410v2.pdf<br>
 https://github.com/zjunlp/DeepKE/tree/main/example/ner/cross<br>
 - QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition<br>
-2023<br>
+2022<br>
 https://arxiv.org/pdf/2203.01543.pdf<br>
 - A Unified Generative Framework for Various NER Subtasks <br>
 （使用BART生成模型进行命名实体识别） <br>
