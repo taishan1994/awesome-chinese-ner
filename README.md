@@ -54,6 +54,7 @@ https://github.com/GeorgeLuImmortal/PUnifiedNER<br>
 借鉴目标检测的思想<br>
 2022<br>
 https://arxiv.org/pdf/2210.10260v2.pdf<br>
+https://github.com/Rosenberg37/EntityDetection<br>
 - DAMO-NLP at SemEval-2022 Task 11:A Knowledge-based System for Multilingual Named Entity Recognition<br>
 多语言的命名实体识别<br>
 2022<br>
