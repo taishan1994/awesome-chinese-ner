@@ -93,9 +93,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4087645
 - Adaptive Threshold Selective Self-Attention for Chinese NER<br>
 COLING 2022<br>
 https://aclanthology.org/2022.coling-1.157.pdf
-- Unsupervised Boundary-Aware Language Model Pretraining for Chinese Sequence Labeling<br>
-2022<br>
-https://arxiv.org/pdf/2210.15231.pdf<br>
 - Improving Chinese Named Entity Recognition by Search Engine Augmentation<br>
 2022<br>
 https://arxiv.org/pdf/2210.12662.pdf<br>
@@ -194,6 +191,10 @@ https://github.com/ShannonAI/mrc-for-flat-nested-ner <br>
 ACL 2020   <br>
 https://arxiv.org/pdf/1908.05969.pdf<br>
 https://github.com/v-mipeng/LexiconAugmentedNER <br>
+- A Boundary Regression Model for Nested Named Entity Recognition<br>
+2020<br>
+https://arxiv.org/pdf/2011.14330v3.pdf<br>
+https://github.com/yuelfei/BR<br>
 - Dice Loss for Data-imbalanced NLP Tasks  <br>
 ACL 2020  <br>
 https://arxiv.org/pdf/1911.02855v3.pdf<br>
