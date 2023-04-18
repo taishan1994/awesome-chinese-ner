@@ -39,10 +39,6 @@ Neurocomputing 2022<br>
 [link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
-- Universal Information Extraction as Unified Semantic Matching<br>
-通用的信息抽取：实体、关系、事件（没有在中文数据上的实验）<br>
-AAAI 2023<br>
-https://arxiv.org/pdf/2301.03282.pdf<br>
 - Token Relation Aware Chinese Named Entity Recognition<br>
 ACM Transactions on Asian and Low-Resource Language Information Processing 2023<br>
 https://dl.acm.org/doi/10.1145/3531534<br>
@@ -293,6 +289,15 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction<br>
+（又一篇通用信息抽取，对比百度UIE以及USM）<br>
+2023<br>
+https://arxiv.org/pdf/2304.08085v1.pdf<br>
+https://github.com/BeyonderXX/InstructUIE<br>
+- Universal Information Extraction as Unified Semantic Matching<br>
+通用的信息抽取：实体、关系、事件（没有在中文数据上的实验），简称USM<br>
+AAAI 2023<br>
+https://arxiv.org/pdf/2301.03282.pdf<br>
 - MULTI-TASK TRANSFORMER WITH RELATION-ATTENTION AND TYPE-ATTENTION FOR NAMED ENTITY RECOGNITION<br>
 2023<br>
 https://arxiv.org/pdf/2303.10870v1.pdf<br>
