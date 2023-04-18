@@ -107,7 +107,7 @@ https://github.com/syuoni/eznlp<br>
 2022 <br>
 https://arxiv.org/pdf/2205.05832.pdf <br>
 - Unified Structure Generation for Universal Information Extraction <br>
-（一统实体识别、关系抽取、事件抽取、情感分析） <br>
+（一统实体识别、关系抽取、事件抽取、情感分析），百度UIE<br>
 ACL 2022 <br>
 https://arxiv.org/pdf/2203.12277.pdf <br>
 https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie <br>
