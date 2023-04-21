@@ -23,6 +23,10 @@ https://github.com/RidongHan/Evaluation-of-ChatGPT-on-Information-Extraction<br>
 Unified Text Structuralization with Instruction-tuned Language Models<br>
 2023<br>
 https://arxiv.org/pdf/2303.14956v2.pdf<br>
+- GPT-NER: Named Entity Recognition via Large Language Models<br>
+2023<br>
+https://arxiv.org/pdf/2304.10428v1.pdf<br>
+https://github.com/ShuheWang1998/GPT-NER<br>
 
 #### 命名实体识别综述（中文）
 - 基于深度学习的中文命名实体识别最新研究进展综述<br>
