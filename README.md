@@ -424,6 +424,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [NLPIR](https://github.com/NLPIR-team/NLPIR/)
 - [trankit](https://github.com/nlp-uoregon/trankit) 多语言
 - [HugIE](https://github.com/wjn1996/HugNLP/blob/main/documents/information_extraction/HugIE.md) 通用信息抽取
+- [EasyInstruct](https://github.com/zjunlp/EasyInstruct)
 
 # 比赛
 
