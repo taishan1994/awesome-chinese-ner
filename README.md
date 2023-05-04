@@ -295,6 +295,10 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- RexUIE: A Recursive Method with Explicit Schema Instructor for Universal Information Extraction<br>
+通用信息抽取，对比USM<br>
+2023<br>
+https://arxiv.org/pdf/2304.14770.pdf<br>
 - InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction<br>
 （又一篇通用信息抽取，对比百度UIE以及USM）<br>
 2023<br>
