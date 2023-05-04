@@ -27,6 +27,8 @@ https://arxiv.org/pdf/2303.14956v2.pdf<br>
 2023<br>
 https://arxiv.org/pdf/2304.10428v1.pdf<br>
 https://github.com/ShuheWang1998/GPT-NER<br>
+- EasyInstruct: An Easy-to-use Framework to Instruct Large Language Models<br>
+https://github.com/zjunlp/EasyInstruct
 
 #### 命名实体识别综述（中文）
 - 基于深度学习的中文命名实体识别最新研究进展综述<br>
