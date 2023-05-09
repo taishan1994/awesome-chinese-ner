@@ -295,6 +295,9 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- NER-to-MRC: Named-Entity Recognition Completely Solving as Machine Reading Comprehension<br>
+2023<br>
+https://arxiv.org/pdf/2305.03970v1.pdf<br>
 - RexUIE: A Recursive Method with Explicit Schema Instructor for Universal Information Extraction<br>
 通用信息抽取，对比USM<br>
 2023<br>
