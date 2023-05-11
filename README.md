@@ -29,6 +29,12 @@ https://arxiv.org/pdf/2304.10428v1.pdf<br>
 https://github.com/ShuheWang1998/GPT-NER<br>
 - EasyInstruct: An Easy-to-use Framework to Instruct Large Language Models<br>
 https://github.com/zjunlp/EasyInstruct
+- CODEIE: Large Code Generation Models are Better Few-Shot Information Extractors<br>
+在代码中进行实体和关系的提取<br>
+2023<br>
+https://arxiv.org/pdf/2305.05711v1.pdf<br>
+https://github.com/dasepli/CodeIE<br>
+
 
 #### 命名实体识别综述（中文）
 - 基于深度学习的中文命名实体识别最新研究进展综述<br>
@@ -45,6 +51,9 @@ Neurocomputing 2022<br>
 [link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
+- Attack Named Entity Recognition by Entity Boundary Interference<br>
+2023<br>
+https://arxiv.org/pdf/2305.05253v1.pdf<br>
 - Token Relation Aware Chinese Named Entity Recognition<br>
 ACM Transactions on Asian and Low-Resource Language Information Processing 2023<br>
 https://dl.acm.org/doi/10.1145/3531534<br>
@@ -295,6 +304,11 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- Deep Span Representations for Named Entity Recognition<br>
+Boundary Smoothing for Named Entity Recognition(同作者)<br>
+ACL 2023<br>
+https://github.com/syuoni/eznlp<br>
+https://arxiv.org/pdf/2210.04182v2.pdf<br>
 - NER-to-MRC: Named-Entity Recognition Completely Solving as Machine Reading Comprehension<br>
 2023<br>
 https://arxiv.org/pdf/2305.03970v1.pdf<br>
