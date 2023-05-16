@@ -427,6 +427,7 @@ https://github.com/rtmaww/EntLM/ <br>
 - [Character, Word, or Both? Revisiting the Segmentation Granularity for Chinese Pre-trained Language Models](https://arxiv.org/ftp/arxiv/papers/2303/2303.10893.pdf) 2023
 - [MiniRBT: A Two-stage Distilled Small Chinese Pre-trained Model](https://arxiv.org/pdf/2304.00717v1.pdf) 2023
 - [sikuGPT](https://github.com/SIKU-BERT/sikuGPT) 古文模型 2023
+- [UniIE](https://github.com/AAIG-NLP/UniIE) 通用信息抽取
  
 # Ner工具
 
@@ -479,3 +480,5 @@ https://github.com/rtmaww/EntLM/ <br>
 - [2020CCKS面向中文电子病历的医疗实体及事件抽取-子任务1：医疗命名实体识别](https://github.com/TingFree/NLPer-Arsenal/blob/master/%E5%BE%80%E6%9C%9F%E7%AB%9E%E8%B5%9B/%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB/2020CCKS%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E7%9A%84%E5%8C%BB%E7%96%97%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96-%E5%AD%90%E4%BB%BB%E5%8A%A1%E4%B8%80%EF%BC%9A%E5%8C%BB%E7%96%97%E5%90%8D%E9%97%A8%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md) 
 - [LAIC2022-犯罪事实实体识别](http://data.court.gov.cn/pages/laic.html)
 - [SemEval-2023 Task 2: Fine-grained Multilingual Named Entity Recognition (MultiCoNER 2)](https://arxiv.org/pdf/2305.06586v1.pdf)
+- [新型电力系统人工智能应用大赛赛题二：电力生产知识图谱多模式信息抽取](https://aistudio.baidu.com/aistudio/competition/detail/425/0/task-definition)
+- [CCKS2022通用信息抽取](https://aistudio.baidu.com/aistudio/competition/detail/161/0/introduction)
