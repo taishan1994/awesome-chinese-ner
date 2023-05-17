@@ -304,6 +304,10 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- Easy-to-Hard Learning for Information Extraction∗ <br>
+2023 <br>
+https://arxiv.org/pdf/2305.09193v1.pdf <br>
+https://github.com/DAMO-NLP-SG/IE-E2H <br>
 - UTC-IE: A Unified Token-pair Classification Architecture for Information Extraction<br>
 2023<br>
 https://openreview.net/pdf?id=cRQwl-59CU8<br>
