@@ -304,6 +304,9 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- UniEX: An Effective and Efficient Framework for Unified Information Extraction via a Span-extractive Perspective<br>
+2023<br>
+https://arxiv.org/pdf/2305.10306v1.pdf<br>
 - Easy-to-Hard Learning for Information Extraction∗ <br>
 2023 <br>
 https://arxiv.org/pdf/2305.09193v1.pdf <br>
