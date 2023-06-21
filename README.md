@@ -34,6 +34,9 @@ https://github.com/zjunlp/EasyInstruct
 2023<br>
 https://arxiv.org/pdf/2305.05711v1.pdf<br>
 https://github.com/dasepli/CodeIE<br>
+- PromptNER : Prompting For Named Entity Recognition<br>
+  2023<br>
+  https://arxiv.org/pdf/2305.15444v2.pdf<br>
 
 
 #### 命名实体识别综述（中文）
