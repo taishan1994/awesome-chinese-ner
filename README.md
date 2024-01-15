@@ -1,9 +1,9 @@
 # awesome-chinese-ner
 中文命名实体识别
 #### 大模型信息抽取
-- 大模型信息抽取综述
+- 大模型信息抽取综述<br>
 Large Language Models for Generative Information Extraction: A Survey<br>
-https://arxiv.org/abs/2312.17617
+https://arxiv.org/abs/2312.17617<br>
 https://github.com/quqxui/Awesome-LLM4IE-Papers<br>
 #### 延申
 - 中文预训练模型综述 <br>
