@@ -3,7 +3,8 @@
 #### 大模型信息抽取
 - 大模型信息抽取综述
 Large Language Models for Generative Information Extraction: A Survey<br>
-https://github. com/quqxui/Awesome-LLM4IE-Papers<br>
+https://arxiv.org/abs/2312.17617
+https://github.com/quqxui/Awesome-LLM4IE-Papers<br>
 #### 延申
 - 中文预训练模型综述 <br>
 https://www.jsjkx.com/CN/10.11896/jsjkx.211200018
