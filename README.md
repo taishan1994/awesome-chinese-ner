@@ -58,6 +58,9 @@ Neurocomputing 2022<br>
 [link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
+- Chinese Sequence Labeling with Semi-Supervised Boundary-Aware Language Model Pre-training<br>
+COLING 2024<br>
+https://arxiv.org/pdf/2404.05560<br>
 - Unified Lattice Graph Fusion for Chinese Named Entity Recognition<br>
   2024<br>
   https://arxiv.org/pdf/2312.16917.pdf<br>
@@ -74,6 +77,10 @@ https://arxiv.org/pdf/2305.05253v1.pdf<br>
 - Token Relation Aware Chinese Named Entity Recognition<br>
 ACM Transactions on Asian and Low-Resource Language Information Processing 2023<br>
 https://dl.acm.org/doi/10.1145/3531534<br>
+- WYWEB: A NLP Evaluation Benchmark For Classical Chinese<br>
+ACL2023<br>
+https://arxiv.org/pdf/2305.14150<br>
+https://github.com/baudzhou/WYWEB<br>
 - PUnifiedNER: a Prompting-based Unified NER System for Diverse Datasets<br>
 AAAI 2023<br>
 https://arxiv.org/pdf/2211.14838.pdf<br>
@@ -83,6 +90,9 @@ https://github.com/GeorgeLuImmortal/PUnifiedNER<br>
 2022<br>
 https://arxiv.org/pdf/2210.10260v2.pdf<br>
 https://github.com/Rosenberg37/EntityDetection<br>
+- Mulco: Recognizing Chinese Nested Named Entities Through Multiple Scopes<br>
+  2022<br>
+  https://arxiv.org/pdf/2211.10854<br>
 - DAMO-NLP at SemEval-2022 Task 11:A Knowledge-based System for Multilingual Named Entity Recognition<br>
 多语言的命名实体识别<br>
 2022<br>
