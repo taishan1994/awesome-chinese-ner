@@ -58,6 +58,9 @@ Neurocomputing 2022<br>
 [link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
+- CRENER: A Character Relation Enhanced Chinese NER Model<br>
+https://arxiv.org/pdf/2412.10858<br>
+2024<br>
 - Chinese Sequence Labeling with Semi-Supervised Boundary-Aware Language Model Pre-training<br>
 COLING 2024<br>
 https://arxiv.org/pdf/2404.05560<br>
