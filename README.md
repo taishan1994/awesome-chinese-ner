@@ -58,6 +58,12 @@ Neurocomputing 2022<br>
 [link](https://reader.elsevier.com/reader/sd/pii/S0925231221016581?token=592CD98CF076A91AFE5EDB2396D806784B30D3217FD7B61FE2FE9CB905451ABB5B28C0285AAFA973010ACE14AD387A5C&originRegion=us-east-1&originCreation=20221119143715) 
 
 # 模型
+- HREB-CRF: HIERARCHICAL REDUCED-BIAS EMA FOR CHINESE NAMED ENTITY RECOGNITION<br>
+https://arxiv.org/pdf/2503.01217<br>
+  2025<br>
+- Dae-ner:Dual-channel attention enhancement for chinese named entity recognition<br>
+Computer Speech & Language,<br>
+2024<br>
 - CRENER: A Character Relation Enhanced Chinese NER Model<br>
 https://arxiv.org/pdf/2412.10858<br>
 2024<br>
